@@ -12,6 +12,7 @@ No se requieren dependencias ni instalación. Solo descarga o clona este reposit
 
 ```sh
 git clone https://github.com/dalii98/amigo-secreto-challenge.git
+```
 
 ## Uso
 1. Ingresa el nombre de un amigo en el campo de texto.
@@ -20,11 +21,10 @@ git clone https://github.com/dalii98/amigo-secreto-challenge.git
 4. Se mostrará un amigo seleccionado al azar
 
 ## Estructura del Proyecto
-📂 amigo-secreto-challenge
-│── 📄 index.html       # Interfaz principal
-│── 📄 styles.css       # Estilos CSS
-│── 📄 script.js        # Lógica del juego
-└── 📄 README.md        # Documentación del proyecto
+- index.html       # Interfaz principal
+- styles.css       # Estilos CSS
+- script.js        # Lógica del juego
+- README.md        # Documentación del proyecto
 
 ## Tecnologías
 * HTML
